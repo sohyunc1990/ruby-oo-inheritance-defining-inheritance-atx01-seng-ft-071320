@@ -4,7 +4,7 @@ class Car
   
   
   def initialize(wheel_size, number)
-    @wheel = wheel
+    @wheel_size = wheel_size
     @number = number
   end
 end
